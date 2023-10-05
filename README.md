@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **marcelngong50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P-uS-J9yMM76k3W4Jx01GvtjMBGFmNQe/view?usp=drive_link](https://drive.google.com/file/d/1P-uS-J9yMM76k3W4Jx01GvtjMBGFmNQe/view?usp=drive_link)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Did you know that the first computer bug was an actual insect? Back in 1947, when computers were still in their infancy, a malfunction was traced back to a moth trapped in a relay of the Harvard Mark II computer. The term 'debugging' was then coined by the computer's operators to describe the process of fixing such issues!**
 
